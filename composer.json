@@ -1,0 +1,39 @@
+{
+  "name": "malago/flarum-linkpreview",
+  "description": "Creates link previews for posts. Uses the www.linkpreview.net service.",
+  "keywords": [
+    "flarum",
+    "linkpreview"
+  ],
+  "type": "flarum-extension",
+  "license": "GPL-3.0-or-later",
+  "require": {
+    "flarum/core": "^1.0.0"
+  },
+  "authors": [
+        {
+            "name": "Miguel A. Lago",
+            "email": "miguelangel.lago@gmail.com"
+        }
+    ],
+  "autoload": {
+    "psr-4": {
+      "Malago\\LinkPreview\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "Link Preview",
+      "category": "appearance",
+      "icon": {
+            "name": "fas fa-link",
+            "backgroundColor": "#ccdd00",
+            "color": "#fff"
+        }
+    },
+    "support": {
+        "issues": "https://github.com/malago86/flarum-linkpreview/issues",
+        "source": "https://github.com/malago86/flarum-inkpreview"
+    }
+  }
+}
