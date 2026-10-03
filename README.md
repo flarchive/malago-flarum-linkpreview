@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of malago/flarum-linkpreview.** Not for installation: use [Packagist](https://packagist.org/packages/malago/flarum-linkpreview) or the [upstream repository](https://github.com/malago86/flarum-linkpreview).
 
-**0** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/malago-flarum-linkpreview/tree/archive/v0.2.1) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
+**3** versions archived · Latest: [`0.2.1`](https://github.com/flarchive/malago-flarum-linkpreview/tree/archive/v0.2.1) · License: `GPL-3.0-or-later` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-07-01 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-linkpreview/tree/archive/v0.1.0) |
+| `0.2.0` | 2021-07-18 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-linkpreview/tree/archive/v0.2.0) |
+| `0.2.1` | 2021-07-19 | `^1.0.0` | [Browse](https://github.com/flarchive/malago-flarum-linkpreview/tree/archive/v0.2.1) |
 
 Catalog entry: [packages/malago-flarum-linkpreview.json](https://github.com/flarchive/archive-index/blob/main/packages/malago-flarum-linkpreview.json)
 
